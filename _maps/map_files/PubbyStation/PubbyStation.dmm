@@ -1096,8 +1096,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Central Access";
-	step_x = 0;
-	step_y = 0
 	},
 /turf/open/floor/plasteel,
 /area/hallway/secondary/entry)
@@ -7327,7 +7325,6 @@
 	},
 /obj/structure/medkit_cabinet{
 	pixel_y = 27;
-	step_x = 0
 	},
 /turf/open/floor/plasteel,
 /area/hallway/primary/fore)
@@ -7359,7 +7356,6 @@
 	},
 /obj/structure/medkit_cabinet{
 	pixel_y = 27;
-	step_x = 0
 	},
 /turf/open/floor/plasteel/dark,
 /area/service/bar)
@@ -7400,7 +7396,6 @@
 	},
 /obj/structure/medkit_cabinet{
 	pixel_y = 27;
-	step_x = 0
 	},
 /turf/open/floor/plasteel,
 /area/hallway/primary/central)
@@ -12844,8 +12839,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/plasteel/white/corner{
@@ -12856,8 +12849,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 10
@@ -12881,8 +12872,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/plasteel,
@@ -12891,8 +12880,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -13096,8 +13083,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Departure Lounge";
-	step_x = 0;
-	step_y = 0
 	},
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
 	dir = 4
@@ -65031,8 +65016,6 @@
 /obj/machinery/door/airlock/public/glass{
 	dir = 4;
 	name = "Central Access";
-	step_x = 0;
-	step_y = 0
 	},
 /turf/open/floor/plasteel,
 /area/security/checkpoint/science)
